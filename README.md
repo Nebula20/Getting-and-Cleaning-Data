@@ -20,6 +20,6 @@ Files of interest:
 
 Running the script also requires the libraries 'plyr', 'car', and 'dplyr'. To avoid conflicts it is recommended that you load them by the time that you actually going to use them.
 
-The script enables you to produce two tidy datasets, called traintest.Rda and averages.Rda. traintest.Rda includes a variable with the ID numbers of the volunteers, the activities they performed, and the 79 variables on the mean and standard deviations of the time and frequency domain variables. averages.Rda includes the average of each of the variables in the traintest.Rda dataset for each subject and each activity.
+The script enables you to produce two tidy datasets, called traintest.Rda and averages.Rda. traintest.Rda includes a variable with the ID numbers of the volunteers, the activities they performed, and the 79 variables on the mean and standard deviations of the measurements. averages.Rda includes the average of each of the variables in the traintest.Rda dataset for each subject and each activity.
 
 Detailed information on the variables can be found in codebook.md
