@@ -1,5 +1,5 @@
 
-Variables:
+81 variables:
 
 "subjectID"                       "activity"                        "tBodyAcc-mean()-X"              
 "tBodyAcc-mean()-Y"               "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
